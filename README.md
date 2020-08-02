@@ -19,14 +19,14 @@ The data source of this project is from [Seattle City Leading Causes of Death](h
 
 ## Descriptions of Visualization and Interactions
 
-This visualization mainly consists of two parts. 1) The line chart in the left panel shows the trend of death number vary of each disease from 2007 to 2014, while X axis presents years and Y axis presents number of deaths. The names of the diseases are in the bottom of the line chart with different colors, and the color of the line indicates which disease it associates with. 2) The grouped bar chart in the right panel shows the distribution of death number over gender and race in selected year for selected disease/all. This bar chart also includes a selection bar on the top for year selection. 
+This visualization mainly consists of two parts. 1) The line chart in the left panel shows the trend of death number vary of each disease from 2012 to 2019, while X axis presents years and Y axis presents number of deaths. The names of the diseases are in the bottom of the line chart with different colors, and the color of the line indicates which disease it associates with. 2) The grouped bar chart in the right panel shows the distribution of death number over gender and race in selected year for selected disease/all. This bar chart also includes a selection bar on the top for year selection. 
 
 In the left panel, by clicking/unclicking the disease name, user can select/unselect the disease he/she want to be updated on the right panel. If no disease is selected, the right panel shows the distribution of total death number over gender and race in selected year. 
 
 In the right panel, by dragging slider on the selection bar, the grouped bar chart below will be updated to present the number of deaths in each race and gender in selected year. Hover on a bar, a tooltip will appear to show detailed information of this bar including year, death number, race and gender.
 
 Figure 1.
-![image](https://github.com/bm19/dataviz-project/blob/master/photos/Untitled-3.png)
+![image](https://github.com/bm19uiuc/dataviz2020/blob/master/photos/Narative-1.png)
 
 ## Answered questions and discussions
 From 2012 to 2019, How does the total death number or death rate vary over time?
@@ -38,12 +38,12 @@ In each year, how is the death number distributed over races and gender?
 As shown in Fig. 2, for the death number, white > Africa american > hispanic > asian, and this pattern is kept in different year. Because we lack of the total population distribution over race and gender，we can not make conclusion that whether a disease have a higher/lower death rate for a particular race.
 
 Figure 2.
-![image](https://github.com/bm19/dataviz-project/blob/master/photos/Untitled-2.png)
+![image](https://github.com/bm19uiuc/dataviz2020/blob/master/photos/Narative-2.png)
 
 Is there any correlation between gender or races and diseases?
 
 As shown in Fig. 3, we can notice that for diabetes a significate increase of death number of Africa american women than it in Africa american men，whilc compare with the pattern in other race. That may indicate a correlation between Africa american women and diabetes.
 
 Figure 3.
-![image](https://github.com/bm19/dataviz-project/blob/master/photos/Untitled-1.png)
+![image](https://github.com/bm19uiuc/dataviz2020/blob/master/photos/Narative-3.png)
 
